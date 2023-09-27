@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/routerclone2/static/css/main.1588cef0.css",
+    "main.js": "/routerclone2/static/js/main.a8f395b6.js",
+    "static/media/bootstrap-icons.woff?": "/routerclone2/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/routerclone2/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/routerclone2/index.html",
+    "main.1588cef0.css.map": "/routerclone2/static/css/main.1588cef0.css.map",
+    "main.a8f395b6.js.map": "/routerclone2/static/js/main.a8f395b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1588cef0.css",
+    "static/js/main.a8f395b6.js"
+  ]
+}
