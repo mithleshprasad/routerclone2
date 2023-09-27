@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mithleshprasad/ecoms.git/static/css/main.0ae51713.css",
-    "main.js": "/mithleshprasad/ecoms.git/static/js/main.a8f395b6.js",
-    "static/media/bootstrap-icons.woff?": "/mithleshprasad/ecoms.git/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/mithleshprasad/ecoms.git/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "index.html": "/mithleshprasad/ecoms.git/index.html",
-    "main.0ae51713.css.map": "/mithleshprasad/ecoms.git/static/css/main.0ae51713.css.map",
-    "main.a8f395b6.js.map": "/mithleshprasad/ecoms.git/static/js/main.a8f395b6.js.map"
+    "main.css": "/routerclone2/static/css/main.1588cef0.css",
+    "main.js": "/routerclone2/static/js/main.a8f395b6.js",
+    "static/media/bootstrap-icons.woff?": "/routerclone2/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/routerclone2/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/routerclone2/index.html",
+    "main.1588cef0.css.map": "/routerclone2/static/css/main.1588cef0.css.map",
+    "main.a8f395b6.js.map": "/routerclone2/static/js/main.a8f395b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ae51713.css",
+    "static/css/main.1588cef0.css",
     "static/js/main.a8f395b6.js"
   ]
 }
