@@ -1,0 +1,9 @@
+.app {
+    display: flex;
+  }
+  
+  .content {
+    /* Add margin or padding to prevent content from overlapping with the sidebar */
+    margin-right: 330px;
+  }
+  

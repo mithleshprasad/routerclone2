@@ -1,0 +1,17 @@
+
+  
+  /* Add more styling as needed */
+  .sidebar {
+    /* important styles */
+    flex-shrink: 0;
+    width: 200px; /* make this whatever you need */
+    height: 100vh;
+    overflow: auto;
+    position: sticky;
+    top: 0;
+  }
+  /* @media (max-width: 768px) {
+    .sidebar {
+     
+    }
+  } */
